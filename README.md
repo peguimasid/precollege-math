@@ -55,11 +55,6 @@ just remember that you can't purchase success!
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
-> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU website](https://ossu.dev) or [OSSU CS Github page](https://github.com/ossu). Some known outdated materials are:
->  - An unmaintained and deprecated firebase app. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
->  - An unmaintained and deprecated trello board
->  - Third-party notion templates
-
 # Curriculum
 
 Many OSSU students choose to review math topics that they have not studied recently.
@@ -86,7 +81,7 @@ Practice what you have not mastered by:
 ## Congratulations
 
 After completing the requirements of the curriculum above,
-you will have completed all the prerequisite math for a full bachelor's degree in Computer Science.
+you have completed all the prerequisite math necessary to begin a bachelor's degree.
 Congratulations!
 
 What is next for you? You can start with the OSSU [Computer Science](https://cs.ossu.dev) or [Data Science](https://ds.ossu.dev) curriculum.
